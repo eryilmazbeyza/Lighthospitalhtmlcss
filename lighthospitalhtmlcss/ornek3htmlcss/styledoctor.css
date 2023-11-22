@@ -1,0 +1,109 @@
+﻿
+.genel {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: lightgrey;
+}
+
+.logo img {
+    width: 20%;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    width: 50%;
+    height: 75px;
+    margin-top: 30px;
+}
+
+    .menu ul li {
+        float: left;
+        list-style-type: none;
+        padding: 10px;
+        font-size: 20px;
+        line-height: 10px;
+    }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: darkgreen;
+        }
+
+            .menu ul li a:hover {
+                color: lightgreen;
+            }
+
+.icon {
+    width: 10%;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+    .icon img {
+        width: 30%;
+        height: 40px;
+        float: right;
+        padding: 5px;
+    }
+
+.giris h1 {
+    color: darkgreen;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.head {
+    color: darkgreen;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 42%;
+}
+
+.slider {
+    width: 80%;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 140px
+}
+
+    .slider img {
+        width: 80%;
+        height: 400px;
+        margin-top: 10px;
+    }
+.footer {
+    margin-top: 20px;
+    width: 100%;
+    height: 300px;
+    background-color: lightgray;
+}
+
+    .footer h3 {
+        color: darkgreen;
+        padding-top: 25px;
+        padding-left: 10px;
+    }
+
+.doctor {
+    width: 100%;
+    height: 150px;
+    background-color: lightgray;
+    margin-top: 10px;
+    padding-left: 435px;
+}
